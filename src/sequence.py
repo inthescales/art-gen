@@ -1,6 +1,6 @@
-import color
 import math
 import random
+import src.color as color
 
 def get_color_seq(start, end, frequency):
     seq = []
